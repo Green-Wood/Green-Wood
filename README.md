@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 Student in Peking University, Beijing, China
+- 🔭 Software Engineer, Hong Kong SAR
 - 🧐 Multimodal Deep Learning with Transformer
-- 🌱 Learning OCaml and functional programming style
+- 🌱 Learning OCaml and functional programming
 
 <a href="https://github.com/Green-Wood">
   <img align="center" height=175 src="https://github-readme-stats.vercel.app/api?username=Green-Wood&theme=github-light&show_icons=true&line_height=24&count_private=true" />
